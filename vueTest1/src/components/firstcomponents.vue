@@ -14,7 +14,6 @@
 export default {
   data(){
       return {
-          msg:"点击跳转到百度123",
           goUrl:'http://www.baidu.com'
       }
   }
