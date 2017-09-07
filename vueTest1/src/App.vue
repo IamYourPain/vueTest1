@@ -13,7 +13,7 @@ export default {
   name: 'app',
    data () {
     return {
-      msg: 'Hello Vue!'
+      msg: 'Hello Vue123!'
     }
   },
   components: { firstcomponent }
